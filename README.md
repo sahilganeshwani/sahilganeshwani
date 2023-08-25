@@ -1,2 +1,2 @@
 ### Hi there 👋
-This is my first pvt git repository.
+This is my first public git repository.
