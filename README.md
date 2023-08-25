@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Ganeshwani</h1>
 <h3 align="center">An Aspiring Software Engineer & passionate Software developer from India</h3>
-<img align="right" alt="Coding" with="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" with="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilganeshwani&label=Profile%20views&color=0e75b6&style=flat" alt="sahilganeshwani" /> </p>
 
