@@ -17,8 +17,8 @@
 <a href="https://twitter.com/ganeshwanisahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshwanisahil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ganeshwanisahil-io?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjXnMuqWqRf2sMxwg2pld4w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilganeshwani" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilganeshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilganeshwani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sahil_g30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahil_g30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahilganeshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilganeshwani" height="30" width="40" /></a>
+<a href="https://www.codechef.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahil_g30" height="30" width="40" /></a>
+<a href="https://leetcode.com/ganeshwani2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilganeshwani" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sahilganeshwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahilganeshwani" height="30" width="40" /></a>
 </p>
 
